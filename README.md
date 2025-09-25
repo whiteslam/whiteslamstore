@@ -1,0 +1,2 @@
+# whiteslamstore
+type 0
